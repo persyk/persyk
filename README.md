@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @persyk
 - 👀 I’m interested in Mobile Testing
 - 🌱 I’m currently learning Java and Kotlin
-- 📫 How to reach me in Telegram @misterpropper
+- 📫 How to reach me in Telegram @chat_gpt14
 
 <!---
 persyk/persyk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
